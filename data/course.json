@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "cb912af7-b476-8446-5d53-4d649b5e3fbc",
+  "instructors": {
+    "content": [
+      "b5bd82fe-498e-d086-b773-7efd68aa7d10"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6391bba2-982a-40c2-3265-5f09c8a68aba",
+    "website": "21w-772-digital-poetry-fall-2005"
+  },
+  "course_title": "Digital Poetry",
+  "course_description": "This class investigates theory and practice of digital or new media poetry with emphasis on workshop review of digital poetry created by students.\u00a0Each week students examine published examples of digital poetry in a variety of forms including but not limited to soundscapes, hypertext poetry, animation, code poems, interactive games, location-based poems using handheld devices, digital video and wikis.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.772",
+  "course_image_thumbnail": {
+    "content": "608e5bb0-1fc4-bc36-450e-d54bba04aa2f",
+    "website": "21w-772-digital-poetry-fall-2005"
+  },
+  "learning_resource_types": [],
+  "site_uid": "dada02b6-ef51-4f88-8f83-1e22b5acb51b",
+  "site_short_id": "21w.772-fall-2005",
+  "site_url_path": "courses/21w-772-digital-poetry-fall-2005",
+  "title": "Course Metadata"
+}
