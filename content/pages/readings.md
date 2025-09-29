@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a bibliography of required and recommended readings
   for the course, and the schedule of readings by session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -21,13 +23,13 @@ Mathews, Harry, and Alastair Brotchie, eds. _Oulipo Compendium_. London, UK: Exa
 Recommended Readings
 --------------------
 
-{{% resource_link "7f02b331-0b0b-44f7-9fc0-46551a5c316a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bolter, Jay, and Richard Grusin. {{% resource_link "7f02b331-0b0b-44f7-9fc0-46551a5c316a" "_Remediation: Understanding New Media_" %}}. Cambridge, MA: MIT Press, 2000. ISBN: 9780262522793.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262522793) Bolter, Jay, and Richard Grusin. [_Remediation: Understanding New Media_](https://mitpress.mit.edu/9780262522793). Cambridge, MA: MIT Press, 2000. ISBN: 9780262522793.
 
-{{% resource_link "86b95650-be7d-41a5-b804-f70583cd5466" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Manovich, Lev. {{% resource_link "86b95650-be7d-41a5-b804-f70583cd5466" "_The Language of New Media_" %}} . Cambridge, MA: MIT Press, 2001. ISBN: 9780262133746.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262133746) Manovich, Lev. [_The Language of New Media_](https://mitpress.mit.edu/9780262133746) . Cambridge, MA: MIT Press, 2001. ISBN: 9780262133746.
 
-{{% resource_link "e771c8ce-7ba2-4aa9-85c1-52be969005ea" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stone, Allucquere Rosanne. {{% resource_link "e771c8ce-7ba2-4aa9-85c1-52be969005ea" "_The War of Desire and Technology at the Close of the Mechanical Age_" %}}. Cambridge, MA: MIT Press, 1995. ISBN: 9780262193627.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262193627) Stone, Allucquere Rosanne. [_The War of Desire and Technology at the Close of the Mechanical Age_](https://mitpress.mit.edu/9780262193627). Cambridge, MA: MIT Press, 1995. ISBN: 9780262193627.
 
-{{% resource_link "f112580c-fc70-4ccd-802a-0c0269bfb816" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wardrip-Fruin, Noah, and Nick Montfort. {{% resource_link "f112580c-fc70-4ccd-802a-0c0269bfb816" "_The New Media Reader_" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 9780262232272.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262232272) Wardrip-Fruin, Noah, and Nick Montfort. [_The New Media Reader_](https://mitpress.mit.edu/9780262232272). Cambridge, MA: MIT Press, 2003. ISBN: 9780262232272.
 
 {{< anchor "readings" >}}{{< /anchor >}}Readings by Session
 -----------------------------------------------------------
